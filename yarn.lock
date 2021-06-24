@@ -103,7 +103,7 @@
     "@polkadot/types" "4.15.1"
     "@polkadot/util" "^6.9.1"
 
-"@polkadot/types@4.15.1":
+"@polkadot/types@4.15.1", "@polkadot/types@^4.15.1":
   version "4.15.1"
   resolved "https://registry.yarnpkg.com/@polkadot/types/-/types-4.15.1.tgz#03f32fd4ce81d69c43368d3e476c0421cedb8607"
   integrity sha512-daCblGDkiNHyDNkVDOQ0x/hblK7zkGAFQy+ykMt6euGGllUiKaAbCKlQN803aKmsB/5m8zQU63MHQC65tkpWXg==
